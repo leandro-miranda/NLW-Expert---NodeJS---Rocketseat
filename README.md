@@ -1,4 +1,5 @@
-![Cover](./.github/cover.png)
+![image](https://github.com/leandro-miranda/NLW-Expert---NodeJS---Rocketseat/assets/67080149/78a19336-cfb0-4711-8233-efc3ead420b0)
+
 
 # NLW Expert (Node.js)
 
